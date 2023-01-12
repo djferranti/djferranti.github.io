@@ -1,0 +1,8 @@
+---
+title: Research
+layout: single
+classes: wide
+permalink: /research/
+author_profile: true
+---
+At Tulane, I have been working broadly on mathematical questions arising from **low Reynolds number fluid dynamics**. In a low Reynolds number fluid, viscous forces are several orders of magnitude greater than inertial forces. In this case, one can make an accurate approximation of the dynamics using the Stokes equations. I have been working primarily on an extension to the method of regularized Stokeslets that would allow for greater accuracy of the method when simulating the motion due to forces distributed on 2D surfaces in Stokes flow.
