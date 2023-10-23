@@ -118,9 +118,9 @@ analytics:
 author:
   name             : "Dana Ferranti"
   avatar           : "/assets/images/AMS.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Mathematics PhD candidate"
-  location 	   : "Tulane University"
-  email            : "dferranti@tulane.edu"
+  bio              : "Assistant research professor"
+  location 	   : "Worcester Polytechnic Institute"
+  email            : "dferranti@wpi.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

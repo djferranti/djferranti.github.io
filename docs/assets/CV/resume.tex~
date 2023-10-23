@@ -218,32 +218,26 @@
 \vs
 \begin{tabular}[t]{@{}p{\textwidth-\rcollength}p{\rcollength}}
 \texttt{Address} & {\large\Letter} \texttt{E-mail} \\
-100 Institute Road & \href{mailto:dferranti@wpi.edu}{dferranti@wpi.edu}\\ 
-Worcester Polytechnic Institute,      & \texttt{Website} \\
-  Worcester, Massachusetts 01609    & \url{djferranti.github.io}
+6823 St. Charles Avenue & \href{mailto:dferranti@tulane.edu}{dferranti@tulane.edu}\\ 
+Tulane University,      & \texttt{Website} \\
+  New Orleans, Louisiana 70118    & \url{djferranti.github.io}
 \end{tabular}
 %% ==============================================================
 \vspace{0.1in}
-\section{Current position}
-\begin{outerlist}
-\item Assistant research professor in the Mathematical Sciences Department \hfill 2023 -  \\
-Postdoctoral advisor: Dr. Sarah Olson
-\end{outerlist}
 \section{Research interests} % (fold)
 \label{sec:research_backg}
 \begin{outerlist}
-\item Computational methods for viscous-dominated fluids described by the Stokes equations.
-\item Biological applications of Stokes flow, including modeling of viscoelastic materials and biofilms.
+\item Computational methods for low Reynolds number fluid dynamics.
+\item Emergence of sychronization in fluid-solid body interactions.
 \end{outerlist}
 % section research_backg (end)
 %% =========  ==============================
 \vspace{0.1in}
 \section{Education}
-    \textbf{Tulane University}, New Orleans, LA \hfill 2017--2023
+    \textbf{Tulane University}, New Orleans, LA \hfill 2017--2023 (expected)
     \begin{outerlist}
-    \item PhD, Mathematics.
-    \item Thesis: \textit{Regularized Stokeslet surfaces and a coupled oscillator system in Stokes flow}  
-    \item Advisor: Dr. Ricardo Cortez. 
+        \item PhD in Mathematics department. 
+        \item Advisor: Dr. Ricardo Cortez. 
     \end{outerlist}
     \vspace{0.1in}
 \textbf{Clark University}, Worcester, MA. \hfill 2010--2014
@@ -255,10 +249,10 @@ Postdoctoral advisor: Dr. Sarah Olson
 \label{sec:research_exper}
 \vspace{-0.25in}
 \begin{outerlist}
-\item {\bf Tulane University} \hfill 2017-2023 \\
+\item {\bf Tulane University} \hfill 2017-present \\
   Center for Computational Science in Mathematics Department.
   \begin{innerlist}
-    \item Extending the method of regularized stokeslets by using exact integration over triangulated surfaces. Minimal models of cilia interaction to investigating the potential effect of elastic coupling and inertia on synchronization.
+    \item Extending the method of regularized stokeslets by using exact integration over triangulated surfaces. Using minimal models of interacting bodies in viscous flows to study the dynamical differences that arise in models that incorporate weak inertia versus those that assume the fluid inertia is negligible.
   \end{innerlist}
     \item {\bf Massachusetts General Hospital} \hfill 2016--2017 \\
     Physics Research in Department of Radiation Oncology.
@@ -273,8 +267,7 @@ Postdoctoral advisor: Dr. Sarah Olson
 \vspace{-.1in}
 \textbf{As instructor}
 \begin{outerlist}
-\item Probability \& Statistics I (Math 1110). \hfill Spring 2023 \\ \textit{Elementary probability theory and statistics} \\
-  Recognized with \textbf{Outstanding Graduate Instructor award} given annually by Tulane University Math Department.
+  \item Probability \& Statistics I (Math 1110). \hfill Spring 2023 \\ \textit{Elementary probability theory and statistics}
   \item Introduction to Applied Math (Math 2240). \hfill Fall 2021 \\ \textit{Ordinary differential equations for engineers/physicists}
   \end{outerlist}
   \vspace{0.5em}
@@ -294,14 +287,11 @@ Postdoctoral advisor: Dr. Sarah Olson
 \item President of AMS Graduate Student Chapter \hfill 2019-2021
 \item Mathematics department  tea time organizer \hfill 2018-2022
 \item Treasurer of AMS Graduate Student Chapter \hfill  2017-2019
-\item Member of Inclusivity in Mathematics Task Force at Tulane (IMTF) \hfill 2020-2023
+\item Member of Inclusivity in Mathematics Task Force at Tulane (IMTF) \hfill 2020-present
 \end{outerlist}
 
 \section{Talks}
 \begin{outerlist}
-\item \textit{Simulating bodies immersed in viscous flows: new developments
-    in the Method of Regularized Stokeslets (MRS)} \\
-  Worcester Polytechnic Institute Mathematics Colloquium (September 8, 2023)
 \item \textit{Regularized Stokeslet Surfaces}
   Scientific Computing Around Louisiana (March 11, 2023)
 \item \textit{Regularized Stokeslet Surfaces} \\
@@ -316,27 +306,19 @@ Postdoctoral advisor: Dr. Sarah Olson
 \item Joint Math Meetings in Boston, MA (January 2023)
 \item SIAM Annual Meetings in Pittsburgh, PA (July 2022)
 \item Blackwell-Tapia Conference at IMSI in Chicago, IL (Nov 2021)
-\item Math for All in New Orleans (2020,2021,2023)
+\item Math for All in New Orleans (2020 and 2021)
 \item Scientific Computing Around Louisiana (2018, 2019, 2023)
 % \href{mailto:rcortez@tulane.edu}{\textsf{rcortez@tulane.edu}}
 \end{outerlist}
 
-\section{Publications}
-\begin{outerlist}
-\item \textit{Regularized Stokeslet Surfaces} with Dr. Ricardo Cortez, 2023 \\
-  in preparation
-\item \textit{The value of prior knowledge in machine learning of complex network systems} \\
-  with David Krane and Dr. David Craft (PI), \textit{Bioinformatics}, 2017
-\end{outerlist}
-
-% \section{References}
-% \def\halfblankline{\vspace{0.1in}}
-% \textbf{Dr. Ricardo Cortez}
-% \begin{innerlist}
-% \item[]
-% Tulane University\\
-% % \href{mailto:rcortez@tulane.edu}{\textsf{rcortez@tulane.edu}}
-% \end{innerlist}
+\section{References}
+\def\halfblankline{\vspace{0.1in}}
+\textbf{Dr. Ricardo Cortez}
+\begin{innerlist}
+\item[]
+Tulane University\\
+% \href{mailto:rcortez@tulane.edu}{\textsf{rcortez@tulane.edu}}
+\end{innerlist}
 
 
 % \halfblankline
