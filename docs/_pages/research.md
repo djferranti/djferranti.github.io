@@ -6,9 +6,9 @@ permalink: /research/
 author_profile: true
 ---
 ## Academic work
-#Preprint
-[*Regularized Stokeslet Surfaces*](https://arxiv.org/abs/2310.14470),Dana Ferranti and Ricardo Cortez, submitted for review.
-#Dissertation
+### Preprint
+[*Regularized Stokeslet Surfaces*](https://arxiv.org/abs/2310.14470), Dana Ferranti and Ricardo Cortez, submitted for review.
+### Dissertation
 [*Regularized Stokeslet Surfaces and a Coupled Oscillator System in Stokes Flow*](http://libproxy.tulane.edu:2048/login?url=https://www.proquest.com/dissertations-theses/regularized-stokeslet-surfaces-coupled-oscillator/docview/2849747811/se-2?accountid=14437)
 
 ## Numerical methods for Stokes flow
