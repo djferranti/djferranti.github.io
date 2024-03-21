@@ -4,6 +4,6 @@ layout: single
 permalink: /cv/
 author_profile: true
 ---
-Last updated: March 21, 2023
+Last updated: March 21, 2024
 
 <embed src="/assets/CV/resume.pdf" type="application/pdf"/>
