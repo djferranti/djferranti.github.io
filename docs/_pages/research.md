@@ -8,7 +8,8 @@ author_profile: true
 ## Academic work
 ### Peer-reviewed
 [*Regularized Stokeslet Surfaces*](https://www.sciencedirect.com/science/article/pii/S0021999124002535), **DF**, R. Cortez. *Journal of Computational Physics*, 2024.
-Code: see my [Github repository] (https://github.com/djferranti/RegularizedStokesletSurfaces)
+Code: see my [Github repository](https://github.com/djferranti/RegularizedStokesletSurfaces)
+
 ### Dissertation
 [*Regularized Stokeslet Surfaces and a Coupled Oscillator System in Stokes Flow*](https://digitallibrary.tulane.edu/islandora/object/tulane%3A144133)
 
