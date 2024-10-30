@@ -9,7 +9,7 @@ author_profile: true
 ### Peer-reviewed
 [*Regularized Stokeslet Surfaces*](https://www.sciencedirect.com/science/article/pii/S0021999124002535), **DF**, R. Cortez. *Journal of Computational Physics*, 2024.
 
-[Correction]({{ site.baseurl }}/assets/manuscripts/erratum.pdf)  g
+[Correction]({{ site.baseurl }}/assets/manuscripts/erratum.pdf) \
 Code: see my [Github repository](https://github.com/djferranti/RegularizedStokesletSurfaces)
 
 ### Dissertation
