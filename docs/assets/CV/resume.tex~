@@ -226,71 +226,97 @@ Worcester Polytechnic Institute,      & \texttt{Website} \\
 \vspace{0.1in}
 \section{Current position}
 \begin{outerlist}
-\item Assistant research professor in the Mathematical Sciences Department \hfill 2023 -  \\
-Postdoctoral advisor: Dr. Sarah Olson
+\item[] \textbf{Worcester Polytechnic Institute Department of Mathematical Sciences} \\
+Assistant Research Professor  \hfill 2023 -  \\
+Advisor: Sarah Olson
 \end{outerlist}
 \section{Research interests} % (fold)
 \label{sec:research_backg}
 \begin{outerlist}
-\item Computational methods for viscous-dominated fluids described by the Stokes equations.
-\item Biological applications of Stokes flow, including modeling of viscoelastic materials and biofilms.
+\item Computational methods for viscous-dominated fluids described by the Stokes equations
+\item Biological applications of Stokes flow
 \end{outerlist}
 % section research_backg (end)
 %% =========  ==============================
 \vspace{0.1in}
 \section{Education}
-    \textbf{Tulane University}, New Orleans, LA \hfill 2017--2023
-    \begin{outerlist}
-    \item PhD, Mathematics.
-    \item Thesis: \textit{Regularized Stokeslet surfaces and a coupled oscillator system in Stokes flow}  
-    \item Advisor: Dr. Ricardo Cortez. 
-    \end{outerlist}
-    \vspace{0.1in}
+\textbf{Tulane University}, New Orleans, LA \hfill 2017--2023
+\begin{outerlist}
+\item[] PhD, Mathematics \\
+  Thesis: \textit{Regularized Stokeslet surfaces and a coupled oscillator system in Stokes flow} \\  
+  Advisor: Ricardo Cortez 
+\end{outerlist}
+\vspace{0.1in}
 \textbf{Clark University}, Worcester, MA. \hfill 2010--2014
-    \begin{outerlist}
-        \item BA, Mathematics and computer science.
-    \end{outerlist}
-    %% =========  ==============================
+\begin{outerlist}
+\item[] BA, Mathematics and Computer Science, Magna Cum Laude
+\end{outerlist}
+%% =========  ==============================
+\section{Awards} %
+\begin{outerlist}
+\item[]Outstanding Thesis Award (Monetary award) \hfill 2024 \\
+  Tulane University Department of Mathematics 
+\item[]Outstanding Graduate Instructor Award (Monetary award) \hfill 2023 \\
+  Tulane University Department of Mathematics 
+\end{outerlist}
+%% =========  ==============================
+\section{Publications}
+\begin{outerlist}
+\item Regularized Stokeslet surfaces. \textit{Journal of Computational Physics}. Volume 508, 113004 (2024). (\textbf{DF}, R. Cortez) 
+\item Generalized matching preclusion in bipartite graphs. \textit{Theory and Applications of Graphs}. Volume 5, Iss. 1, Article 1 (2018). (with Z.  Wheeler, E. Cheng, \textbf{DF}, L. Liptak, K. Nataraj) 
+\item The value of prior knowledge in machine learning of complex network systems. \textit{Bioinformatics}. Volume 30, 22 (2017). (\textbf{DF}, D. Krane, D. Craft)
+\end{outerlist}
+%% =========  ==============================
 \section{Research Experience} % (fold)
 \label{sec:research_exper}
 \vspace{-0.25in}
 \begin{outerlist}
-\item {\bf Tulane University} \hfill 2017-2023 \\
-  Center for Computational Science in Mathematics Department.
+\item {\bf Worcester Polytechnic Institute} \hfill 2023 -  \\
+  Department of Mathematical Sciences
   \begin{innerlist}
-    \item Extending the method of regularized stokeslets by using exact integration over triangulated surfaces. Minimal models of cilia interaction to investigating the potential effect of elastic coupling and inertia on synchronization.
+  \item Linear stability analysis of an elastic-structure fluid interaction problem using the method of regularized Stokeslets, mathematical modeling of cellular functions. 
   \end{innerlist}
-    \item {\bf Massachusetts General Hospital} \hfill 2016--2017 \\
-    Physics Research in Department of Radiation Oncology.
-    \begin{innerlist}
-    \item Using theoretical models to demonstrate the value of prior knowledge in determining causal relationships in complex networks, with applications to machine learning in medicine.
-      \item Advisor: Dr. David Craft. 
-    \end{innerlist}
+\item {\bf Tulane University} \hfill 2017-2023 \\
+  Center for Computational Science in Mathematics Department
+  \begin{innerlist}
+  \item Extending the method of regularized stokeslets by using exact integration over triangulated surfaces. Minimal models of cilia interaction to investigating the potential effect of elastic coupling and inertia on synchronization.
+  \end{innerlist}
+\item {\bf Massachusetts General Hospital} \hfill 2016--2017 \\
+  Physics Research in Department of Radiation Oncology
+  \begin{innerlist}
+  \item Using theoretical models to demonstrate the value of prior knowledge in determining causal relationships in complex networks, with applications to machine learning in medicine.
+  \item Advisor: David Craft. 
+  \end{innerlist}
 \end{outerlist}
-
 %% ================== block:  ==========================
 \section{Teaching Experience}
-\vspace{-.1in}
-\textbf{As instructor}
+% \vspace{-.1in}
+\textit{As instructor} \\
+\textbf{Worcester Polytechnic Institute}
 \begin{outerlist}
-\item Probability \& Statistics I (Math 1110). \hfill Spring 2023 \\ \textit{Elementary probability theory and statistics} \\
-  Recognized with \textbf{Outstanding Graduate Instructor award} given annually by Tulane University Math Department.
-  \item Introduction to Applied Math (Math 2240). \hfill Fall 2021 \\ \textit{Ordinary differential equations for engineers/physicists}
-  \end{outerlist}
-  \vspace{0.5em}
-  \textbf{As teaching assistant}
-    \vspace{-0.1in}
-  \begin{outerlist}
-  \item Introduction to Applied Math (Math 2240). \hfill 2019, 2020, 2021 
-  \item Linear algebra (Math 3090).  \hfill 2020
-  \item Calculus I (Math 1210). \hfill 2017, 2019
-  \item Calculus II (Math 1220). \hfill 2018, 2020
-  \item Calculus III (Math 2210). \hfill 2018
-  \end{outerlist}
+\item Calculus IV \hfill Spring 2024 \\
+\end{outerlist}
+\textbf{Tulane University}
+\begin{outerlist}
+\item Probability \& Statistics I (Math 1110) \hfill Spring 2023 
+\item Introduction to Applied Math (Math 2240). \hfill  Fall 2021
+\end{outerlist}
+\vspace{0.5em}
+\textit{As teaching assistant} \\
+\textbf{Tulane University}
+\begin{outerlist}
+\item Introduction to Applied Math (Math 2240). \hfill 2019, 2020, 2021 
+\item Linear algebra (Math 3090).  \hfill 2020
+\item Calculus I (Math 1210). \hfill 2017, 2019
+\item Calculus II (Math 1220). \hfill 2018, 2020
+\item Calculus III (Math 2210). \hfill 2018
+\end{outerlist}
   
 \section{Service and Outreach}
 \vspace{-0.25in}
 \begin{outerlist}
+\item Reviewer for \textit{Pi Mu Epsilon} journal \hfill 2024
+\item Volunteer at WPI's Sonia Kovalevsky Day \hfill 2024
 \item President of AMS Graduate Student Chapter \hfill 2019-2021
 \item Mathematics department  tea time organizer \hfill 2018-2022
 \item Treasurer of AMS Graduate Student Chapter \hfill  2017-2019
@@ -299,6 +325,10 @@ Postdoctoral advisor: Dr. Sarah Olson
 
 \section{Talks}
 \begin{outerlist}
+\item \textit{Linear stability analysis of a coupled fluid-structure system using the method of regularized Stokeslets} \\
+  Joint annual meeting of Korean Society for Mathematical Biology and Society for Mathematical Biology (July 1, 2024)
+\item \textit{Regularized Stokeslet Surfaces} \\
+  Division of Fluid Dynamics (APS Meetings) in Washington D.C. (November 20, 2023)
 \item \textit{Simulating bodies immersed in viscous flows: new developments
     in the Method of Regularized Stokeslets (MRS)} \\
   Worcester Polytechnic Institute Mathematics Colloquium (September 8, 2023)
@@ -313,6 +343,7 @@ Postdoctoral advisor: Dr. Sarah Olson
 \section{Conferences}
 \def\halfblankline{\vspace{0.1in}}
 \begin{outerlist}
+\item Division of Fluid Dynamics (APS Meetings) in Washington, D.C. (November 2023)
 \item Joint Math Meetings in Boston, MA (January 2023)
 \item SIAM Annual Meetings in Pittsburgh, PA (July 2022)
 \item Blackwell-Tapia Conference at IMSI in Chicago, IL (Nov 2021)
@@ -321,13 +352,6 @@ Postdoctoral advisor: Dr. Sarah Olson
 % \href{mailto:rcortez@tulane.edu}{\textsf{rcortez@tulane.edu}}
 \end{outerlist}
 
-\section{Publications}
-\begin{outerlist}
-\item \textit{Regularized Stokeslet Surfaces} with Dr. Ricardo Cortez, 2023 \\
-  in preparation
-\item \textit{The value of prior knowledge in machine learning of complex network systems} \\
-  with David Krane and Dr. David Craft (PI), \textit{Bioinformatics}, 2017
-\end{outerlist}
 
 % \section{References}
 % \def\halfblankline{\vspace{0.1in}}
