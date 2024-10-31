@@ -233,8 +233,9 @@ Advisor: Sarah Olson
 \section{Research interests} % (fold)
 \label{sec:research_backg}
 \begin{outerlist}
-\item Computational methods for viscous-dominated fluids described by the Stokes equations
-\item Biological applications of Stokes flow
+\item Computational methods for fluid-structure interaction at low Reynolds number, particularly the method of regularized Stokeslets.
+\item Biological applications of Stokes flows.
+\item Reduced ODE models for systems of hydrodynamically coupled bodies.
 \end{outerlist}
 % section research_backg (end)
 %% =========  ==============================
@@ -274,12 +275,14 @@ Advisor: Sarah Olson
 \item {\bf Worcester Polytechnic Institute} \hfill 2023 -  \\
   Department of Mathematical Sciences
   \begin{innerlist}
-  \item Linear stability analysis of an elastic-structure fluid interaction problem using the method of regularized Stokeslets, mathematical modeling of cellular functions. 
+  \item Linear stability analysis of an elastic-structure fluid interaction problem using the method of regularized Stokeslets.
+  \item Mathematical modeling of cellular functions. 
   \end{innerlist}
 \item {\bf Tulane University} \hfill 2017-2023 \\
   Center for Computational Science in Mathematics Department
   \begin{innerlist}
-  \item Extending the method of regularized stokeslets by using exact integration over triangulated surfaces. Minimal models of cilia interaction to investigating the potential effect of elastic coupling and inertia on synchronization.
+  \item Extending the method of regularized stokeslets by using exact integration over triangulated surfaces.
+  \item Reduced  models of cilia interaction to investigating the potential effect of elastic coupling and inertia on synchronization.
   \end{innerlist}
 \item {\bf Massachusetts General Hospital} \hfill 2016--2017 \\
   Physics Research in Department of Radiation Oncology
