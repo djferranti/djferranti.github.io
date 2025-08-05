@@ -10,6 +10,6 @@ I am an assistant research professor (postdoc) in the Department of Mathematical
 
 ## Updates
 * August 21, 2025: Teaching Calculus IV for A-Term of 2025-26 calendar year at WPI!
-* July 21-25, 2025: Attended the workshop *Mathematical Modeling, Computational Methods, and Biological Fluid Dynamics: Research and Training* at the National Institute for Theory and Mathematics in Biology in Chicago, IL. See [Research](/research/#jupyter-notebooks-on-mrs) for some software/Jupyter notebooks I created for a tutorial about the method of regularized Stokeslets (MRS) that I led with Sarah Olson at the workshop. 
+* July 21-25, 2025: Attended the workshop *Mathematical Modeling, Computational Methods, and Biological Fluid Dynamics: Research and Training* at the National Institute for Theory and Mathematics in Biology in Chicago, IL. Go [here](/research/#jupyter-notebooks-on-mrs) for some software/Jupyter notebooks I created for a tutorial about the method of regularized Stokeslets (MRS) that I led with Sarah Olson at the workshop. 
 * July 9, 2025: Preprint of *Analysis of the Stability of an Immersed Elastic Surface Using the Method of Regularized Stokeslets* (**DF**, S.D. Olson) is available on [arXiv](https://arxiv.org/abs/2507.07063v1).
 * July 2024: *Regularized Stokeslet Surfaces* (**DF**, R. Cortez) was published in the *Journal of Computational Physics*. I have put Matlab code on a [Github repostitory](https://github.com/djferranti/RegularizedStokesletSurfaces/) that implements the method and demonstrates a few test cases from the paper.

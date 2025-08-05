@@ -39,8 +39,8 @@ In my thesis, I worked on the analysis of a coupled oscillator model in Stokes f
 ## Jupyter Notebooks on MRS
 For a tutorial I helped run at a workshop in July 2025, I made two Jupyter notebooks which are now hosted on Github:
 
-* [Moment Conditions Jupyter Notebook]{https://github.com/djferranti/RegularizedStokesletsTutorial/blob/main/moments.ipynb}
-* [Regularized Stokeslet Surfaces Notebook]{https://github.com/djferranti/RegularizedStokesletsTutorial/blob/main/flow_past_sphere_streamlines.ipynb}
+* [Moment Conditions Jupyter Notebook](https://github.com/djferranti/RegularizedStokesletsTutorial/blob/main/moments.ipynb)
+* [Regularized Stokeslet Surfaces Notebook](https://github.com/djferranti/RegularizedStokesletsTutorial/blob/main/flow_past_sphere_streamlines.ipynb)
 
 The first notebook is self-contained and shows how using blobs with particular moment conditions increases the convergence of the far-field regularization error.
 
