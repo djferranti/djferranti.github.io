@@ -7,7 +7,7 @@ author_profile: true
 ---
 ## Academic work
 ### In Review/Preprints
-[*Analysis of the stability of an immersed elastic surface using the method of regularized Stokeslets*](https://arxiv.org/abs/2507.07063v1), **DF**, S.D. Olson.
+[*Analysis of the stability of an immersed elastic surface using the method of regularized Stokeslets*](https://arxiv.org/abs/2507.07063v1), **DF**, S.D. Olson. *Accepted by JCP pending review of minor revisions.* 
 ### Peer-reviewed
 [*Regularized Stokeslet Surfaces*](https://www.sciencedirect.com/science/article/pii/S0021999124002535), **DF**, R. Cortez. *Journal of Computational Physics*, 2024.
 

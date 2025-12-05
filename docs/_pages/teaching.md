@@ -7,9 +7,8 @@ author_profile: true
 ---
 ## Teaching at WPI
 
-I am teaching Calculus IV for 2025-26 A-Term. 
-
 **Previous WPI Courses**
+* Calculus IV, A-Term 2025-26.
 * Calculus II, C-Term 2024-25.
 * Calculus IV, C-Term 2023-24.
 
