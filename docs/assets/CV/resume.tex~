@@ -262,10 +262,15 @@ Advisor: Sarah Olson
 \end{outerlist}
 %% =========  ==============================
 \section{Publications}
+\textit{Pending}
 \begin{outerlist}
-\item Regularized Stokeslet surfaces. \textit{Journal of Computational Physics}. Volume 508, 113004 (2024). (\textbf{DF}, R. Cortez) 
-\item Generalized matching preclusion in bipartite graphs. \textit{Theory and Applications of Graphs}. Volume 5, Iss. 1, Article 1 (2018). (with Z.  Wheeler, E. Cheng, \textbf{DF}, L. Liptak, K. Nataraj) 
-\item The value of prior knowledge in machine learning of complex network systems. \textit{Bioinformatics}. Volume 30, 22 (2017). (\textbf{DF}, D. Krane, D. Craft)
+\item Analysis of the stability of an immersed elastic surface using the method of regularized Stokeslets. (2025). (\textbf{DF}, S.D. Olson). Preprint: \url{https://arxiv.org/abs/2507.07063}. \textit{Accepted pending minor revisions by Journal of Computational Physics.}
+\end{outerlist}
+\textit{Published}
+\begin{outerlist}
+\item Regularized Stokeslet surfaces. \textit{Journal of Computational Physics}. Volume 508, 113004 (2024). (\textbf{DF}, R. Cortez). 
+\item Generalized matching preclusion in bipartite graphs. \textit{Theory and Applications of Graphs}. Volume 5, Iss. 1, Article 1 (2018). (Z.  Wheeler, E. Cheng, \textbf{DF}, L. Liptak, K. Nataraj). 
+\item The value of prior knowledge in machine learning of complex network systems. \textit{Bioinformatics}. Volume 30, 22 (2017). (\textbf{DF}, D. Krane, D. Craft).
 \end{outerlist}
 %% =========  ==============================
 \section{Research Experience} % (fold)
@@ -275,9 +280,13 @@ Advisor: Sarah Olson
 \item {\bf Worcester Polytechnic Institute} \hfill 2023 -  \\
   Department of Mathematical Sciences
   \begin{innerlist}
-  \item Linear stability analysis of an elastic-structure fluid interaction problem using the method of regularized Stokeslets.
-  \item Mathematical modeling of cellular functions. 
+  \item Stability analysis of a coupled elastic surface-fluid system using the method of regularized Stokeslets.
+  \item Generalized image systems for Stokes flows using the Lorentz reflection principle.
+  \item Mathematical modeling of cellular functions.
   \end{innerlist}
+  \textit{As an adviser to undergraduate students}
+\item Research adivising of second year aerospace engineering student. Topic: dynamical systems arising from coupled oscillators in Stokes flow.
+\item Research advising of a third year physics student. Topic: Incorporating bending/elastic stiffness terms in the regularized Stokeslet surfaces framework.
 \item {\bf Tulane University} \hfill 2017-2023 \\
   Center for Computational Science in Mathematics Department
   \begin{innerlist}
@@ -292,12 +301,23 @@ Advisor: Sarah Olson
   \end{innerlist}
 \end{outerlist}
 %% ================== block:  ==========================
+%% =========  ==============================
+\section{Undergrad. Research Advising} % (fold)
+\begin{outerlist}
+\item Undergraduate student 1
+\item Undergraduate student 2
+\end{outerlist}
+\label{sec:research_exper}
+%% ================== block:  ==========================
 \section{Teaching Experience}
 % \vspace{-.1in}
 \textit{As instructor} \\
 \textbf{Worcester Polytechnic Institute}
 \begin{outerlist}
-\item Calculus IV \hfill Spring 2024 \\
+\item Calculus IV \hfill Fall 2025
+\item Independent Study: Introduction to the Immersed Boundary Method \hfill Spring 2025  
+\item Calculus II \hfill  Spring 2025 
+\item Calculus IV \hfill Spring 2024 
 \end{outerlist}
 \textbf{Tulane University}
 \begin{outerlist}
@@ -326,36 +346,53 @@ Advisor: Sarah Olson
 \item Member of Inclusivity in Mathematics Task Force at Tulane (IMTF) \hfill 2020-2023
 \end{outerlist}
 
-\section{Talks}
+\section{Posters \& Talks}
+\textit{Posters} 
+\begin{outerlist} 
+\item {\textit{Stability Analysis of an Immersed Elastic Surface Using the Method of Regularized Stokeslets}} 
+  \begin{innerlist}
+  \item Mathematical Modeling, Computational Methods, and Biological Fluid Dynamics at National Institute for Theory and Mathematics in Biology (NITMB) in Chicago, IL (July 23, 2025).
+  \item Frontiers in Applied \& Computational Mathematics at NJIT (June 5, 2025).
+  \end{innerlist}
+\item {\textit{Inertial Effects in a Minimal Model of Hydrodynamically Dynamically Coupled Cilia}} 
+  Blackwell-Tapia Conference at Institute of Mathematical and Statistical Innovation (IMSI) in Chicago, IL (Nov. 19, 2021).
+\end{outerlist}
+\textit{Talks} 
 \begin{outerlist}
+\item \textit{A Tutorial on the Method of Regularized Stokeslets: Advanced Methods} \\
+  Mathematical Modeling, Computational Methods, and Biological Fluid Dynamics at NITMB in Chicago, IL (July 21, 2025).
 \item \textit{Numerical stability analysis of a coupled fluid-elastic structure system using the method of regularized Stokeslets} \\
-    77th Annual Meeting of the Division of Fluid Dynamics (November 25, 2024)
+    77th Annual Meeting of the Division of Fluid Dynamics (November 25, 2024).
 \item \textit{Linear stability analysis of a coupled fluid-structure system using the method of regularized Stokeslets} \\
-  Joint annual meeting of Korean Society for Mathematical Biology and Society for Mathematical Biology (July 1, 2024)
+  Joint annual meeting of Korean Society for Mathematical Biology and Society for Mathematical Biology (July 1, 2024).
 \item \textit{Regularized Stokeslet Surfaces} \\
-  Division of Fluid Dynamics (APS Meetings) in Washington D.C. (November 20, 2023)
+  Division of Fluid Dynamics (APS Meetings) in Washington D.C. (November 20, 2023).
 \item \textit{Simulating bodies immersed in viscous flows: new developments
     in the Method of Regularized Stokeslets (MRS)} \\
-  Worcester Polytechnic Institute Mathematics Colloquium (September 8, 2023)
+  Worcester Polytechnic Institute Mathematics Colloquium (September 8, 2023).
 \item \textit{Regularized Stokeslet Surfaces}
-  Scientific Computing Around Louisiana (March 11, 2023)
+  Scientific Computing Around Louisiana (March 11, 2023).
 \item \textit{Regularized Stokeslet Surfaces} \\
-  Math for All in NOLA (February 25,2023)
+  Math for All in NOLA (February 25,2023).
 \item \textit{An Extension to the Method of Regularized Stokeslets} \\
-  Special session on Recent Developments in Numerical Methods for PDEs, Joint Math Meetings 2023 (January 4,2023)
-  \item \textit{Computational Modeling of Bodies Immersed in Viscous Fluids} \\ Hunter College Applied Math Seminar (November 3,2022) 
+  Special session on Recent Developments in Numerical Methods for PDEs, Joint Math Meetings 2023 (January 4,2023).
+  \item \textit{Computational Modeling of Bodies Immersed in Viscous Fluids} \\ Hunter College Applied Math Seminar (November 3,2022). 
 \end{outerlist}
-\section{Conferences}
-\def\halfblankline{\vspace{0.1in}}
-\begin{outerlist}
-\item Division of Fluid Dynamics (APS Meetings) in Washington, D.C. (November 2023)
-\item Joint Math Meetings in Boston, MA (January 2023)
-\item SIAM Annual Meetings in Pittsburgh, PA (July 2022)
-\item Blackwell-Tapia Conference at IMSI in Chicago, IL (Nov 2021)
-\item Math for All in New Orleans (2020,2021,2023)
-\item Scientific Computing Around Louisiana (2018, 2019, 2023)
-% \href{mailto:rcortez@tulane.edu}{\textsf{rcortez@tulane.edu}}
-\end{outerlist}
+% \section{Professional Development}
+% \def\halfblankline{\vspace{0.1in}}
+% \textit{Conferences and Workshops} 
+% \begin{outerlist}
+% \item Mathematical Modeling, Computational Methods, and Biological Fluid Dynamics, NITMB in Chicago, IL (July 2025).
+% \item Frontiers in Applied and Computational Mathematics at NJIT (June 2025).
+% \item Division of Fluid Dynamics (DFD) in Salt Lake City, UT. (November 2024).
+% \item DFD in Washington, D.C. (November 2023).
+% \item Joint Math Meetings in Boston, MA (January 2023).
+% \item SIAM Annual Meetings in Pittsburgh, PA (July 2022).
+% \item Blackwell-Tapia Conference at IMSI in Chicago, IL (Nov 2021).
+% \item Math for All in New Orleans (2020,2021,2023).
+% \item Scientific Computing Around Louisiana (2018, 2019, 2023).
+% % \href{mailto:rcortez@tulane.edu}{\textsf{rcortez@tulane.edu}}
+% \end{outerlist}
 
 
 % \section{References}
